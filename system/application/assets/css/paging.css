@@ -1,0 +1,23 @@
+.pagingpage-nomor{
+	background-color: #fff;
+	-moz-border-radius:4px;
+	-khtml-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius:4px;
+	text-align:center;
+	width:20px;
+	padding: 2px;
+	border: 1px solid #C8E862;
+	float:left;
+}
+.pagingpage{
+	background-color: #fff;
+	-moz-border-radius:4px;
+	-khtml-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius:4px;
+	text-align:center;
+	padding: 2px;
+	border: 1px solid #C8E862;
+	float:left;
+}
