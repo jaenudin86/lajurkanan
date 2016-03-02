@@ -1,0 +1,2 @@
+# lajurkanan
+lajurkana
